@@ -1,0 +1,1 @@
+CREATE TABLE "public"."item" ("guid" text NOT NULL, "link" text NOT NULL, "author" text NOT NULL, "title" text NOT NULL, "description" text NOT NULL, "pubDate" date NOT NULL, "id" serial NOT NULL, PRIMARY KEY ("id") );
